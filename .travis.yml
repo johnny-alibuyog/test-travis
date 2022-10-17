@@ -3,5 +3,5 @@ services:
   - docker
 
 script:
-  - docker build -t jalibuyog/node .
-  - docker images jalibuyog/node
+  - docker build -t johnny-alibuyog/test-travis .
+  - docker images johnny-alibuyog/test-travis
